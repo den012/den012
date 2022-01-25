@@ -37,14 +37,10 @@
 ---
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
-  
 </details>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="GitHub Stats" src="" />
-
 </details>
 
 [website]: https://twitter.com/denn0123
