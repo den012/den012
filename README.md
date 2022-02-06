@@ -2,6 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/denn0123?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/denn0123)
 
+## [My website](https://denistech.ninja)
 ## I'm a student and i like to code!!
 
 - 🔭 I just created this bio!
