@@ -36,14 +36,6 @@
 <br />
 <br />
 
----
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-</details>
 
 [website]: https://twitter.com/denn0123
 [twitter]: https://twitter.com/denn0123
