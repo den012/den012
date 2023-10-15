@@ -6,7 +6,7 @@
 ## I'm a student and i like to code!!
 
 - 🔭 I just created this bio!
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning to code 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to...
