@@ -10,8 +10,3 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to...
-
-[website]: https://twitter.com/denn0123
-[twitter]: https://twitter.com/denn0123
-[youtube]: https://www.youtube.com/channel/UCEKhhdCOMyKH0Pei9gaUx9w
-[instagram]: https://www.instagram.com/blaga_deniss/
